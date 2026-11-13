@@ -3,7 +3,7 @@
 ## Overview
 
 This project focuses on predicting house prices using the Boston Housing dataset. 
-A Ridge Regression model was developed with a complete preprocessing and feature 
+Ridge Regression model was developed with complete preprocessing and feature 
 engineering pipeline, including scaling, polynomial feature generation, categorical 
 encoding, and feature selection.
 
@@ -40,8 +40,8 @@ consistently applied to unseen data.
 
 The final model was evaluated on the held-out test set using:
 
-- **R² Score** – measures how well the model explains the variance in house prices.
-- **RMSE (Root Mean Squared Error)** – measures the average magnitude of prediction errors.
+- **R² Score** 
+- **RMSE 
 
 ## Technologies
 
