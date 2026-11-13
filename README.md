@@ -37,7 +37,7 @@ consistently applied to unseen data.
 The final model was evaluated on the held-out test set using:
 
 - **R² Score**: 0.830701966633179
-- **RMSE: 3.5235302281081076
+- **RMSE**: 3.5235302281081076
 
 ## Technologies
 
