@@ -7,6 +7,13 @@ Ridge Regression model was developed with complete preprocessing and feature
 engineering pipeline, including scaling, polynomial feature generation, categorical 
 encoding, and feature selection.
 
+```text
+Multiple_Regression-HousePrice/
+  ├── HousePrice_Prediction.ipynb
+  ├── HousingData.csv
+  └── README.md
+```
+
 ## Dataset
 
 The project uses the Boston Housing dataset, which contains information about 
