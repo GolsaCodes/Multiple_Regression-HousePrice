@@ -13,10 +13,6 @@ The project uses the Boston Housing dataset, which contains information about
 different properties and their surrounding areas. The target variable is `MEDV`, 
 representing the median value of owner-occupied homes. Here is the link to the dataset: [Boston Housing Dataset](https://www.kaggle.com/code/prasadperera/the-boston-housing-dataset) from Kaggle.
 
-## Approach
-
-The data was split into training and test sets before model training.
-
 ### Preprocessing
 
 Different preprocessing strategies were applied based on the characteristics of the features:
@@ -27,7 +23,7 @@ Different preprocessing strategies were applied based on the characteristics of 
 - Keep the binary `CHAS` feature unchanged
 - Feature selection using `SelectKBest` with `f_regression`
 
-### Model
+## Model
 
 Ridge Regression was used as the final regression model to reduce the risk of 
 overfitting, particularly after polynomial feature expansion.
